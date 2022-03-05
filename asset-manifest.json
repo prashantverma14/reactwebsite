@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactwebsite/static/css/main.a4dc4578.css",
+    "main.js": "/reactwebsite/static/js/main.59f74d2a.js",
+    "static/media/product4.jpg": "/reactwebsite/static/media/product4.94f1bc5d0678e2629aeb.jpg",
+    "static/media/product1.jpg": "/reactwebsite/static/media/product1.8d05cbf9e77184b549db.jpg",
+    "static/media/portfolio.jpg": "/reactwebsite/static/media/portfolio.37317f30bbee54e203b3.jpg",
+    "static/media/avatar1.jpeg": "/reactwebsite/static/media/avatar1.d37df0395195993244c9.jpeg",
+    "static/media/hero.jpg": "/reactwebsite/static/media/hero.160610bbf5f99adb33b3.jpg",
+    "static/media/product3.jpg": "/reactwebsite/static/media/product3.26dbf87d9c8fd8e0b3f2.jpg",
+    "static/media/product2.jpg": "/reactwebsite/static/media/product2.201f8ebd10b441d95dd8.jpg",
+    "static/media/HeroDesign.png": "/reactwebsite/static/media/HeroDesign.70d4607cd228844ffa52.png",
+    "index.html": "/reactwebsite/index.html",
+    "main.a4dc4578.css.map": "/reactwebsite/static/css/main.a4dc4578.css.map",
+    "main.59f74d2a.js.map": "/reactwebsite/static/js/main.59f74d2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4dc4578.css",
+    "static/js/main.59f74d2a.js"
+  ]
+}
