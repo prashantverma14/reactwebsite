@@ -1,0 +1,84 @@
+.footer .lower__footer{
+    margin: 0;
+    text-align: center;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+}  
+
+.footer .lower__footer h2 span{
+    color: #fc4958;
+    text-transform: uppercase;
+}
+
+.footer .upper{
+    margin: 0;
+    background:  linear-gradient(to right, #fc4958, #e85d04);
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10vw;
+    padding: 4vw;
+} 
+
+
+.footer .upper p{
+    font-size: 1.1rem;
+    line-height: 1.4rem;
+    letter-spacing: 0.1rem;
+
+}
+
+
+.footer .upper  ul{
+    display: flex;
+    list-style-type:none;
+    gap: 4vw;
+    margin-top: 2vw;
+}
+
+
+.footer .upper  ul li{
+    padding: 0.8rem;
+    border-radius: 2rem;
+    background-color: white;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+
+.footer .upper  ul li svg{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fc4958;
+    font-size:1.6rem ;
+    transition: 0.3s ease-in-out;
+}
+
+.footer .upper  ul li:hover{
+    background-color: black;
+}
+
+
+.footer .upper ul li svg:hover{
+    transform: scale(1.2);
+}
+
+
+.footer .upper  .brand img{
+    filter: brightness(0) invert(1);
+    width: 10vw;
+}
+
+.footer .upper .container{
+    display: flex;
+    flex-direction:column ;
+    gap: 0.5rem;
+    
+}
+
+.footer .upper .container h3{
+font-size: 2rem;
+
+}

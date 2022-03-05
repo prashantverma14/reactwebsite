@@ -1,0 +1,68 @@
+#newsletter{
+    border: 0.08rem solid black;
+    padding: 4rem;
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+    align-items: center;
+}
+
+#newsletter .title{
+text-align: center;
+display: flex;
+flex-direction:column ;
+gap: 2rem;
+}
+
+#newsletter .title h1{
+    font-size: 3rem;
+    text-transform: uppercase;
+}
+
+#newsletter .title h1 span{
+color: #fc4958;
+}
+
+
+#newsletter .title p{
+    padding: 0 10vw;
+    font-size: 1.1rem;
+    line-height: 2rem;
+    letter-spacing: 0.1rem;
+}
+
+
+#newsletter .container{
+    background: linear-gradient(to right, #fc4958, #e85d04, #fc4958);
+    padding: 0.2vw;
+}
+
+#newsletter .container input{
+    border: none;
+    padding: 1rem 8rem 1rem 1rem;
+    font-size:1.3rem ;
+}
+
+#newsletter .container input:focus{
+    outline: none;
+}
+
+#newsletter .container button{
+    padding: 0.5rem 3rem;
+    background-color: transparent;
+    border: none;
+    font-size:1.3rem ;
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 0.2rem;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+}
+
+#newsletter .container button:hover{
+    letter-spacing: 0.5rem;
+    padding: 1rem 3rem;
+}
+
+
+
